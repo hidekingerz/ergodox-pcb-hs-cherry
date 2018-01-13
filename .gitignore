@@ -9,6 +9,10 @@
 _autosave-*
 *.tmp
 
+# Garber files
+*.gbr
+*.drl
+
 # Netlist files (exported from Eeschema)
 *.net
 
