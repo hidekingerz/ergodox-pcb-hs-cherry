@@ -1,4 +1,4 @@
-# ergpdpx-pcb-hs-cherry
+Â# ergpdpx-pcb-hs-cherry
 Holtite Socket対応版Ergodox PCBデータです。  
 以下のリポジトリを元に変更しています。
 
@@ -21,19 +21,19 @@ https://github.com/bishboria/ErgoDox
 |:---|:---|:---|
 |PCB|	-	|2|
 |Teensy USB Board, Version 2.0|http://www.pjrc.com |1|
-|MCP23018 I/O expander|Digikey: MCP23018-E/SP-ND|1|
-|3.5mm TRRS connector|Digikey: CP-43514-ND|2|
-|USB mini B connector|Digikey: WM17115-ND|1|
-|USB mini B plug|Digikey: H2955-ND|1|
-|0.1 UF ceramic capacitor|Digikey: BC2665CT-ND*|1|
-|1N4148 diode   (SOD-123 package (SMD), or DO-35 (through hole 0.3" pitch))|Digikey: 1N4148FS-ND* or Digikey: 1N4148W-FDICT-ND*	|76-80|
+|MCP23018 I/O expander|[Digikey: MCP23018-E/SP-ND](https://www.digikey.jp/products/ja?keywords=MCP23018-E%2FSP-ND)|1|
+|3.5mm TRRS connector|[Digikey: CP-43514-ND](https://www.digikey.jp/products/ja?keywords=CP-43514-ND)|2|
+|USB mini B connector|[Digikey: WM17115-ND](https://www.digikey.jp/products/ja?keywords=WM17115-ND)|1|
+|USB mini B plug|[Digikey: H2955-ND](https://www.digikey.jp/products/ja?keywords=H2955-ND)|1|
+|0.1 UF ceramic capacitor|[Digikey: BC2665CT-ND](https://www.digikey.jp/products/ja?keywords=BC2665CT-ND)|1|
+|1N4148 diode   (SOD-123 package (SMD), or DO-35 (through hole 0.3" pitch))|[Digikey: 1N4148FS-ND](https://www.digikey.jp/products/ja?keywords=N4148FS-ND) or [Digikey: 1N4148W-FDICT-ND](https://www.digikey.jp/products/ja?keywords=1N4148W-FDICT-ND)	|76-80|
 |2.2K Ω resistor|Digikey: 2.2KQTR-ND*|2|
 |3mm T1 LED|Digikey: 160-1034-ND*| |
 |~220 Ω resistor (match to led)	|Digikey: 220QBK-ND*|3|
 |Cherry MX switch|Mouser: MX1A-*****|76-80|
 |USB cable Male A to male mini B|USBFirewire: www.usbfirewire.com*|	1|
 |TRRS cable	|MyCableMart: www.mycablemart.com*|1|
-|holtite|Digikey:| (152-160) + 49|
+|8134-HC-8P2, or 8134-HC-8P3|Digikey:8134-HC-8P2, or 8134-HC-8P3| (152-160) + 49|
 
 ## 動作確認
 
