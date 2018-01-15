@@ -27,10 +27,10 @@ https://github.com/bishboria/ErgoDox
 |USB mini B plug|[Digikey: H2955-ND](https://www.digikey.jp/products/ja?keywords=H2955-ND)|1|
 |0.1 UF ceramic capacitor|[Digikey: BC2665CT-ND](https://www.digikey.jp/products/ja?keywords=BC2665CT-ND)|1|
 |1N4148 diode   (SOD-123 package (SMD), or DO-35 (through hole 0.3" pitch))|[Digikey: 1N4148FS-ND](https://www.digikey.jp/products/ja?keywords=N4148FS-ND) or [Digikey: 1N4148W-FDICT-ND](https://www.digikey.jp/products/ja?keywords=1N4148W-FDICT-ND)	|76-80|
-|2.2K Ω resistor|Digikey: 2.2KQTR-ND*|2|
-|3mm T1 LED|Digikey: 160-1034-ND*| |
-|~220 Ω resistor (match to led)	|Digikey: 220QBK-ND*|3|
-|Cherry MX switch|Mouser: MX1A-*****|76-80|
+|2.2K Ω resistor|[Digikey: 2.2KQTR-ND](https://www.digikey.jp/product-detail/ja/yageo/CFR-25JR-52-2K2/2.2KQTR-ND/11982)|2|
+|3mm T1 LED|[Digikey: 160-1034-ND](https://www.digikey.jp/products/ja?keywords=160-1034-ND)| |
+|~220 Ω resistor (match to led)	|[Digikey: 220QBK-ND](https://www.digikey.jp/products/ja?keywords=220QBK-ND)|3|
+|Cherry MX switch|[JW System: MX1A-*****](https://www.jw-shop.com/P-keyboard-mswitch10/page45/detail.htm)|76-80|
 |USB cable Male A to male mini B|USBFirewire: www.usbfirewire.com*|	1|
 |TRRS cable	|MyCableMart: www.mycablemart.com*|1|
 |8134-HC-8P2, or 8134-HC-8P3|Digikey:8134-HC-8P2, or 8134-HC-8P3| (152-160) + 49|
