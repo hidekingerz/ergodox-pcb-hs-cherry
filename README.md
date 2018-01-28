@@ -38,7 +38,7 @@ IOエキスパンダと各種抵抗、I/Fは対応していません。
 |Cherry MX switch|Mouser: MX1A-*****|76-80|
 |USB cable Male A to male mini B|USBFirewire: www.usbfirewire.com*|	1|
 |TRRS cable	|MyCableMart: www.mycablemart.com*|1|
-|holtite|Digikey:| (152-160) + 24|
+|holtite|Digikey:A114359-ND or A114358-ND| (152-160) + 24|
 
 ## PCBの入手方法
 ご自身でGerberファイルを生成し、PCBGOGO等の基盤制作業者にご依頼ください。
