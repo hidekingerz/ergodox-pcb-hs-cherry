@@ -72,3 +72,7 @@ Falbatechのアクリルケースについているスイッチプレートを�
 ||赤軸|OK|
 |ZealPC|R9 Purple Zealio Switches|OK|
 |Kaihua|Kailh Speed Switches|NG|
+
+
+# Special Thanks
+[haru-akeさんの HoltiteSocket対応版Let'sSplit](https://github.com/haru-ake/lets-split-pcb-hs-cherry)のPCBを頂いたことから本プロジェクトが始まりました。
