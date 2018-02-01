@@ -1,4 +1,4 @@
-# ergpdpx-pcb-hs-cherry
+# ergodox-pcb-hs-cherry
 
 ![PCB](./pic/IMG_0267.png "pcb")
 
@@ -8,6 +8,7 @@ Holtite Socket対応版Ergodox PCBデータです。
 
 https://github.com/bishboria/ErgoDox
 
+[Build-Logはこちら](https://gist.github.com/hidekingerz/674485b1bc5f276b9785774917839918)です。
 
 # はじめに
 はんだ付け無しでキースイッチとTeensy2を設置できる基板です。
